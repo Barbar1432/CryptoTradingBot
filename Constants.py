@@ -1,5 +1,5 @@
-API_KEY = '5cURxrEcO1PMvD7yx2UDsWivvecMqgjovDP56RWeGasoaVPB9OSEbvKzdnvfKEcO'
-SECRET_KEY = '5GbzEESXrAKvAil8WSdYdgmaDDYaj8mxElNNF4GSMqtWvx5ZLmzEo2U0jfhKejec'
+API_KEY = 'put your binance key here'
+SECRET_KEY = 'put your binance key here'
 
 
 RSIOVERBOUGHT=70
